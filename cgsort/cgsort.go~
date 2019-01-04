@@ -1,0 +1,10 @@
+package cgsort
+
+type result struct {
+	Key   string
+	Value interface{}
+}
+
+func SortMapByKey(m map[string]interface{}) []result {
+
+}
